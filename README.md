@@ -50,6 +50,13 @@
 * [**U.S. Bureau of Economic Analysis (BEA) | Gross Domestic Product**](http://www.bea.gov/national/index.htm)
 
 
+## REFERENCE STUDIES
+US News.com has done their own ranking of countries that we can use as inspiration and as a baseline
+* [**Overall Rankings List**](https://www.usnews.com/news/best-countries/overall-rankings)
+* [**Methodology**](https://www.usnews.com/news/best-countries/articles/methodology)
+* [**Example of Parameters - US**](https://www.usnews.com/news/best-countries/united-states#country-ranking-details)
+
+
 
 ## LIST OF POSSIBLE QUESTIONS
 * How has that changed over the past 50 years (1970)?
