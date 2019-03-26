@@ -42,7 +42,7 @@
 	* Quality of life
 
 
-## RESOURCES
+## DATA RESOURCES
 * [**Project Kickoff Form**](https://docs.google.com/forms/d/e/1FAIpQLSc098GXDWTvFQDxhRO6xRlyxk4XXIGmyYaodGmoLADJWtawcg/viewform) 
 * [**World Bank Open Data**](https://data.worldbank.org/)
 * [**Google Data sets**](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset) 
